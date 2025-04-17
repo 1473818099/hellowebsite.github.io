@@ -27,7 +27,7 @@ We play electronic Jazz that will zap your brain.
   </div>
    <br>
   <div>
-  <img src="band.HEIC">
+  <img src="/Image/band.HEIC">
 </div>
     <div>
     <ul>
@@ -38,7 +38,7 @@ We play electronic Jazz that will zap your brain.
 </div>
 <br>
 <div>
-  <audio controls=""> <source src="Music1.mp3" type="audio/mpeg"></audio> <br>
+  <audio controls=""> <source src="/Audio/Music1.mp3" type="audio/mpeg"></audio> <br>
 </div>
 <div>
 	    <script src="orbits.js"></script>
